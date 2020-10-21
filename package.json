@@ -1,5 +1,6 @@
 {
   "name": "berry_sdk_repro",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
